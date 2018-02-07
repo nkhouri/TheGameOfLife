@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\nick\desktop\visual studio projects\the game of life\sfml template\sfml template\main.cpp(74): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\the game of life\sfml template\sfml template\main.cpp(76): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\nick\desktop\visual studio projects\the game of life\sfml template\sfml template\main.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Template.vcxproj -> C:\Users\Nick\Desktop\Visual Studio Projects\The Game of Life\SFML Template\Debug\Testing SFML.exe
